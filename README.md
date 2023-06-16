@@ -29,7 +29,7 @@
 # RestApi-Node-Server
 
 - In this Repo, you can learn about Node JS and its basics Concepts
-- Project is made with NEXT.JS
+- Project is made with Node JS and Express JS
 - Project is created by Syed Ans Shah ( `https://github.com/syedansshah` ) 
 
 ### Installation
